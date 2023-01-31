@@ -1,0 +1,23 @@
+:root{
+  --brand-color: #EC4899;
+--dark-color: #26171D;
+--mid-color: #D4D4D8;
+--light-color: #F8FAFC;
+}
+
+body{
+  background-color: var(--color-light);
+    color: var(--color-dark); 
+  
+p.a {
+  font-family: "Times New Roman", Times;
+}
+  
+}
+*{margin:0;
+  padding:0;
+  boxsizing: border-box;
+}
+body{
+  background-color: var(--color-light);
+  color: var(--color-dark);
